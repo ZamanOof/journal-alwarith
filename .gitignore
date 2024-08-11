@@ -1,6 +1,6 @@
 # IDEs
 .idea/
-.github/
+# .github/
 # Hugo
 /resources/
 public/
