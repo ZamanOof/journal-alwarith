@@ -1,0 +1,13 @@
+# IDEs
+.idea/
+.github/
+# Hugo
+/resources/
+public/
+assets/jsconfig.json
+# assets/pdf/*
+# assets/pdf/
+# *.pdf
+# assets/pdf/مجلة التميز المؤسسي  13_converted11.pdf
+# assets/pdf/مجلة التميز المؤسسي  15 الاخيرة.pdf
+# assets/pdf/مجلة_التميز_المؤسسي12_الاخيرة_طباعة.pdf
