@@ -1,8 +1,7 @@
 ---
-title: "استخدام￼ بطاقات الأداء المتوازن )BSC( بصفتها استراتيجية نظام ادارة"
+title: مجلة التميز المؤسسي العدد 11
 authors:
-- admin
-- Zaman
+- زمان حسن
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -18,7 +17,7 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "مجلة التميز المؤسسي 11"
+publication: 
 publication_short: ""
 
 abstract: المقدمة
@@ -34,7 +33,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
